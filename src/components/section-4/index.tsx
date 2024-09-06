@@ -24,8 +24,8 @@ export function Section4() {
         </SubTitle4>
         <Agende>Agende sua consulta gratuita agora mesmo!</Agende>
         <WrapperButton>
-          <Button color="white" texto="(83) 98854-0801" />
-          <Button color="white" texto="(83) 98818-8607" />
+          <Button color="white" texto="(00) 00000-0000" />
+          <Button color="white" texto="(00) 00000-0000" />
         </WrapperButton>
       </ContainerStyled>
     </ContainerImagem2>
