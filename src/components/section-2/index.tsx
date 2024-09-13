@@ -1,19 +1,19 @@
 import { Button } from "../button";
 import { ContainerStyled } from "../container/styles";
 import {
-  ContainerImage,
   DescricaoSlogan,
   NameEmpresa,
   Photo,
   TitleSlogan,
+  WrapperButton,
   WrapperContainer,
+  WrapperSection2,
 } from "./styles";
 
 export function Section2() {
   return (
-   
-
-      <ContainerStyled>
+    <ContainerStyled>
+      <WrapperSection2>
         <WrapperContainer>
           <NameEmpresa>Gold Informática</NameEmpresa>
           <TitleSlogan>
@@ -21,11 +21,10 @@ export function Section2() {
             computadores e notebooks com a mais alta qualidade.
           </TitleSlogan>
           <DescricaoSlogan>
-            Na Gold Informática, nos dedicamos a oferecer serviços de
-            conserto e reparo de computadores e notebooks com a mais alta
-            qualidade. Nossa equipe de profissionais qualificados está preparada
-            para lidar com qualquer problema, garantindo que seu dispositivo
-            volte coo novo.
+            Na Gold Informática, nos dedicamos a oferecer serviços de conserto e
+            reparo de computadores e notebooks com a mais alta qualidade. Nossa
+            equipe de profissionais qualificados está preparada para lidar com
+            qualquer problema, garantindo que seu dispositivo volte coo novo.
           </DescricaoSlogan>
           <DescricaoSlogan>
             Com atendimento rápido e eficiente, coleta e entrega no seu
@@ -34,11 +33,13 @@ export function Section2() {
             Informática para cuidar do seu equipaento e aproveite a
             tranquilidade de ter especialistas ao seu lado.
           </DescricaoSlogan>
+          <WrapperButton>
+            <Button color="white" texto="Orçamento online!" />
+          </WrapperButton>
         </WrapperContainer>
 
-        <Button color="white" texto="Orçamento online!" />
         <Photo></Photo>
-      </ContainerStyled>
-    
+      </WrapperSection2>
+    </ContainerStyled>
   );
 }
