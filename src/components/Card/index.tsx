@@ -1,13 +1,24 @@
-import { Container, SubTitleCard, TitleCard } from "./styleds";
-import { RiCustomerService2Line } from "react-icons/ri";
+import { IconBaseProps } from "react-icons";
+import { Container, IconCard, SubTitleCard, TitleCard } from "./styleds";
 
-type CardProps = { Title: string, SubTitle: string };
-export function Card({Title, SubTitle}: CardProps) {
+
+type CardProps = {
+  Title: string;
+  SubTitle: string;
+  Icon?: IconBaseProps;
+  
+};
+export function Card({ Title, SubTitle, Icon }: CardProps) {
   return (
     <Container>
-      <RiCustomerService2Line color="00ffff" size={50} />
+      <IconCard>
+        <>{Icon}</>
+      </IconCard>
+
       <TitleCard>{Title}</TitleCard>
       <SubTitleCard>{SubTitle}</SubTitleCard>
     </Container>
   );
 }
+
+//<RiCustomerService2Line color="00ffff" size={50} />

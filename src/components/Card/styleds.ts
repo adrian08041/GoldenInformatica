@@ -12,3 +12,8 @@ export const Container = styled.div`
 
 export const TitleCard = styled.h1``;
 export const SubTitleCard = styled.p``;
+
+export const IconCard = styled.div`
+  color: #000000;
+  font-size: 50px;
+`;

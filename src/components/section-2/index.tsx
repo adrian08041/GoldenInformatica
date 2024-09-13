@@ -15,13 +15,13 @@ export function Section2() {
 
       <ContainerStyled>
         <WrapperContainer>
-          <NameEmpresa>Golden Informática</NameEmpresa>
+          <NameEmpresa>Gold Informática</NameEmpresa>
           <TitleSlogan>
             Nos dedicamos a oferecer serviços de conserto e reparo de
-            computadores e notebbooks com a mais alta qualidade.
+            computadores e notebooks com a mais alta qualidade.
           </TitleSlogan>
           <DescricaoSlogan>
-            Na JSA Assistência Técnica, nos dedicamos a oferecer serviços de
+            Na Gold Informática, nos dedicamos a oferecer serviços de
             conserto e reparo de computadores e notebooks com a mais alta
             qualidade. Nossa equipe de profissionais qualificados está preparada
             para lidar com qualquer problema, garantindo que seu dispositivo

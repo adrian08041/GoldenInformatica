@@ -18,6 +18,7 @@ export const Menu = styled.p`
 `;
 export const Logo = styled.img`
   width: 100;
-  height: 100px;
+  height: 400px;
+  
   
 `;

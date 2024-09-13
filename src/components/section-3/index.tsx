@@ -3,6 +3,12 @@ import { Container } from "../container";
 
 import { Card } from "../Card";
 
+import { MdBackup, MdDock, MdHandyman, MdKeyboard } from "react-icons/md";
+import { GrVmMaintenance } from "react-icons/gr";
+import { IoGameController } from "react-icons/io5";
+import { GiLaptop } from "react-icons/gi";
+import { BsMotherboard } from "react-icons/bs";
+
 export function Section3() {
   return (
     <Container>
@@ -12,6 +18,7 @@ export function Section3() {
       <Title>Serviços especializados para máxima performance</Title>
       <ContainerCard>
         <Card
+          Icon={<MdHandyman />}
           Title="Conserto e Reparo e PCs e notebooks"
           SubTitle="Nosso time especializado oferece conserto
           e reparo para todos os tipos de problemas,
@@ -21,6 +28,7 @@ export function Section3() {
           solução para o seu equipamento."
         />
         <Card
+          Icon={<MdBackup />}
           Title="Formatação com backup"
           SubTitle="Realizamos a formatação completa do seu 
           computador, incluindo backup dos seus 
@@ -29,6 +37,7 @@ export function Section3() {
           deixe o trabalho pesado conosco."
         />
         <Card
+          Icon={<GrVmMaintenance />}
           Title="Manuntenção Preventiva"
           SubTitle="Nossa manntenção preventiva inclui limpeza
           interna, verificação de hardware e ajustes
@@ -36,12 +45,14 @@ export function Section3() {
           prolongar a vida útil do seu dispositivo."
         />
         <Card
+          Icon={<IoGameController />}
           Title="Montagem de PC Gamer"
           SubTitle="Oferecemos  montagem  personalizada  de PCs Gamer, adaptados ás suas 
 Necessidades e preferências. Se você  busca 
 potência  e eficiência  para  jogos,  temos a solução  ideal  para você."
         />
         <Card
+          Icon={<GiLaptop />}
           Title="Restauração de Carcaça  de Notebook "
           SubTitle="Realizamos a Restauração  da carcaça do
 seu notebook, melhorando a aspecto visual
@@ -49,6 +60,7 @@ e a  durabilidade do seu equipamento, como
     se estivesse  novo  novamente."
         />
         <Card
+          Icon={<MdKeyboard />}
           Title="Venda e instalação  de Teclado e SSD"
           SubTitle="vendemos e instalamos  Teclados  e SSDs
   para melhorar  a performance  e a
@@ -57,6 +69,7 @@ Troque componentes antigos e sinta a
       diferença  no desempenho.."
         />
         <Card
+          Icon={<BsMotherboard />}
           Title="Reparo de Placa Mãe"
           SubTitle="Especialista em diagnósticos e reparo de
            placas-mãe, asseguramos que seu desktop
