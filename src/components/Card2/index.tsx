@@ -1,24 +1,22 @@
 import { IconBaseProps } from "react-icons";
-import { Container, IconCard, SubTitleCard, TitleCard } from "./styleds";
+import { Container } from "../container";
+import { ContainerCard2, IconCard, SubTitleCard, TitleCard } from "./styles";
 
-
-type CardProps = {
+type Card2Props = {
   Title: string;
   SubTitle: string;
   Icon?: IconBaseProps;
-  
 };
-export function Card({ Title, SubTitle, Icon }: CardProps) {
+
+export function Card2({ Title, SubTitle, Icon }: Card2Props) {
   return (
-    <Container>
+    <ContainerCard2>
       <IconCard>
         <>{Icon}</>
       </IconCard>
 
       <TitleCard>{Title}</TitleCard>
       <SubTitleCard>{SubTitle}</SubTitleCard>
-    </Container>
+    </ContainerCard2>
   );
 }
-
-
