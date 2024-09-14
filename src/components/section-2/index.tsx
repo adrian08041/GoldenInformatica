@@ -21,10 +21,11 @@ export function Section2() {
             computadores e notebooks com a mais alta qualidade.
           </TitleSlogan>
           <DescricaoSlogan>
-            Na Gold Informática, nos dedicamos a oferecer serviços de conserto e
-            reparo de computadores e notebooks com a mais alta qualidade. Nossa
-            equipe de profissionais qualificados está preparada para lidar com
-            qualquer problema, garantindo que seu dispositivo volte coo novo.
+            Na <strong> Gold Informática</strong>, nos dedicamos a oferecer
+            serviços de conserto e reparo de computadores e notebooks com a mais
+            alta qualidade. Nossa equipe de profissionais qualificados está
+            preparada para lidar com qualquer problema, garantindo que seu
+            dispositivo volte coo novo.
           </DescricaoSlogan>
           <DescricaoSlogan>
             Com atendimento rápido e eficiente, coleta e entrega no seu

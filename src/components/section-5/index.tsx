@@ -26,25 +26,25 @@ export function Section5() {
             </details>
             <details>
               <summary>Quanto tempo demora para consertar um notebook?</summary>
-              meus ovo
+              teste
             </details>
             <details>
               <summary>Quanto tempo demora para consertar um notebook?</summary>
-              meus ovo
+              teste
             </details>
           </ListContainer1>
           <ListContainer2>
             <details>
               <summary>Quanto tempo demora para consertar um notebook?</summary>
-              meus ovo
+              teste
             </details>
             <details>
               <summary>Quanto tempo demora para consertar um notebook?</summary>
-              meus ovo
+              teste
             </details>
             <details>
               <summary>Quanto tempo demora para consertar um notebook?</summary>
-              meus ovo
+              teste
             </details>
           </ListContainer2>
         </Lists>

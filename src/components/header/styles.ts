@@ -8,17 +8,18 @@ export const Container = styled.div`
   padding: 20px;
 `;
 
+
+
 export const WrapperMenu = styled.div`
   display: flex;
   gap: 20px;
   font-weight: 500;
- 
+  margin-top: 5px;
+  
 `;
 export const Menu = styled.p`
 `;
 export const Logo = styled.img`
   width: 100;
-  height: 400px;
-  
-  
+  height: 100px;
 `;
