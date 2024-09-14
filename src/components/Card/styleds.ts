@@ -10,7 +10,11 @@ export const Container = styled.div`
   padding: 20px;
 `;
 
-export const TitleCard = styled.h1``;
+export const TitleCard = styled.h1`
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+`;
 export const SubTitleCard = styled.p`
   color: #2c2c2c;
 `;

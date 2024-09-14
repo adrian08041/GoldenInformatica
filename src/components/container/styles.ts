@@ -6,7 +6,10 @@ export const ContainerStyled = styled.div`
   margin-right: auto;
   
 
-  @media (min-width: 576px) {
+  @media (min-width: 576px) {{
+
+    }
+    
     max-width: 540px;
   }
 

@@ -5,6 +5,7 @@ import { Section3 } from "../components/section-3";
 import { Section4 } from "../components/section-4";
 import { Section5 } from "../components/section-5";
 import { Section6 } from "../components/section-6";
+import { Whatsapp } from "../components/whatsapp";
 
 export function App() {
   return (
@@ -16,7 +17,7 @@ export function App() {
       <Section5 />
       <Section6 />
       <Maps />
-      
+      <Whatsapp />
     </div>
   );
 }
