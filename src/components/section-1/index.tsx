@@ -1,9 +1,14 @@
 import { Container } from "../container";
 import { Header } from "../header";
 import { Slogan } from "../slogan";
-import { Card } from "../Card";
-import { CardContainer, ContainerImage, ContainerImage2 } from "./styles";
-import { MdHeadsetMic, MdLaptopChromebook, MdLocalShipping, MdMobileFriendly,  } from "react-icons/md";
+import { Card } from "../card";
+import { CardContainer, ContainerImage, } from "./styles";
+import {
+  MdHeadsetMic,
+
+  MdLocalShipping,
+  MdMobileFriendly,
+} from "react-icons/md";
 
 export function Section1() {
   return (

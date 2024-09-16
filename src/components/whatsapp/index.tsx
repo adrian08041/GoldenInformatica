@@ -7,7 +7,7 @@ export function Whatsapp() {
 
       <div className="ButtonWpp">
         <a href="https://wa.me//5592995175830" target="_blank">
-          <img src="/public/assets/whatsapp.png" alt="wpp"></img>
+          <img src="/public/assets/whatsapp.png" alt="Fale conosco pelo Whatsapp"></img>
         </a>
       </div>
     </WrapperWpp>

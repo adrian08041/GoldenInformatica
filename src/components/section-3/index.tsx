@@ -1,7 +1,7 @@
 import { ContainerCard, SubTitlte, Title, WrapperContainer3 } from "./styles";
 import { Container } from "../container";
 
-import { Card } from "../Card";
+import { Card } from "../card";
 
 import { MdBackup, MdHandyman, MdKeyboard } from "react-icons/md";
 import { GrVmMaintenance } from "react-icons/gr";

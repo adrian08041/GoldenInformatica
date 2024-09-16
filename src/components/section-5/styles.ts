@@ -1,8 +1,7 @@
 import styled from "styled-components";
 
 export const ContainerFaq = styled.div`
-  margin: 50px;
-  height: 300px;
+  margin-top: 50px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,7 +10,15 @@ export const ContainerFaq = styled.div`
 
 export const Titulo5 = styled.h1`
 
+
 `
+
+export const WrapperAccordion = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  justify-items: center;
+`;
 export const Lists = styled.div`
 display:flex;
 gap: 50px;
