@@ -3,9 +3,11 @@ import { ContainerStyled } from "../container/styles";
 
 import {
   ContainerFaq,
-  ListContainer1,
-  ListContainer2,
-  Lists,
+  
+  ContainerList,
+  
+  ContainerList2,
+  
   Titulo5,
   WrapperAccordion,
 } from "./styles";
@@ -20,12 +22,16 @@ export function Section5() {
       <ContainerFaq>
         <Titulo5>Perguntas Frequentes (FAQ) </Titulo5>
         <WrapperAccordion>
-          <Accordion />
-          <Accordion />
-          <Accordion />
-          <Accordion />
-          <Accordion />
-          <Accordion />
+          <ContainerList2>
+            <Accordion />
+            <Accordion />
+            <Accordion />
+          </ContainerList2>
+          <ContainerList>
+            <Accordion />
+            <Accordion />
+            <Accordion />
+          </ContainerList>
         </WrapperAccordion>
       </ContainerFaq>
     </ContainerStyled>

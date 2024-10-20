@@ -25,7 +25,7 @@ export function Section2() {
             serviços de conserto e reparo de computadores e notebooks com a mais
             alta qualidade. Nossa equipe de profissionais qualificados está
             preparada para lidar com qualquer problema, garantindo que seu
-            dispositivo volte coo novo.
+            dispositivo volte novo.
           </DescricaoSlogan>
           <DescricaoSlogan>
             Com atendimento rápido e eficiente, coleta e entrega no seu
@@ -35,6 +35,7 @@ export function Section2() {
             tranquilidade de ter especialistas ao seu lado.
           </DescricaoSlogan>
           <WrapperButton>
+            
             <Button color="white" texto="Orçamento online!" />
           </WrapperButton>
         </WrapperContainer>

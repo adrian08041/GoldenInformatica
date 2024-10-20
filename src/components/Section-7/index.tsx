@@ -1,5 +1,6 @@
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import "./styles.css";
+import { ContainerStyled } from "../container/styles";
 
 export function Maps() {
   const { isLoaded } = useJsApiLoader({
@@ -11,27 +12,29 @@ export function Maps() {
     lng: -46.523925,
   };
   return (
-    <div className="map">
-      {isLoaded ? (
-        <GoogleMap
-          mapContainerStyle={{ width: "100%", height: "100%" }}
-          center={position}
-          zoom={16}
-        >
-          <Marker
-            position={position}
-            options={{
-              label: {
-                text: "Gold Informática",
-                className: "TittleMaker",
-              },
-            }}
-          />
+    <ContainerStyled>
+      <div className="map">
+        {isLoaded ? (
+          <GoogleMap
+            mapContainerStyle={{ width: "100%", height: "100%" }}
+            center={position}
+            zoom={16}
+          >
+            <Marker
+              position={position}
+              options={{
+                label: {
+                  text: "Gold Informática",
+                  className: "TittleMaker",
+                },
+              }}
+            />
+            <></>
+          </GoogleMap>
+        ) : (
           <></>
-        </GoogleMap>
-      ) : (
-        <></>
-      )}
-    </div>
+        )}
+      </div>
+    </ContainerStyled>
   );
 }

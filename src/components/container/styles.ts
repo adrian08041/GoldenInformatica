@@ -4,12 +4,8 @@ export const ContainerStyled = styled.div`
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  
 
-  @media (min-width: 576px) {{
-
-    }
-    
+  @media (min-width: 576px) {
     max-width: 540px;
   }
 
@@ -29,7 +25,6 @@ export const ContainerStyled = styled.div`
     max-width: 1320px;
   }
 `;
-
 
 export const Photo = styled.div`
   background-image: url("/public/assets/imagem1.jpg");

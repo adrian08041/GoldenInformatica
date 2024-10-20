@@ -6,6 +6,9 @@ export const ContainerFaq = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+ font-family: 'roboto', sans-serif;
+ font-weight: 500;
+ font-size: 16px;
 `;
 
 export const Titulo5 = styled.h1`
@@ -19,20 +22,17 @@ export const WrapperAccordion = styled.div`
   gap: 15px;
   justify-items: center;
 `;
-export const Lists = styled.div`
-display:flex;
-gap: 50px;
-margin-top: 100px;
 
+
+export const ContainerList = styled.div`
 
 
 `
+export const ContainerList2 = styled.div`
+  
+`;
 
 
-export const ListContainer1 = styled.div`
- `
-
-export const ListContainer2 = styled.div``;
 
 
 

@@ -39,7 +39,7 @@ export function Section6() {
         <Card2
           Icon={<MdOutlineAlternateEmail />}
           Title="E-MAIL"
-          SubTitle="Teste@gmail.com"
+          SubTitle="goldprint.toner@outlook.com"
         />
       </WrapperCards>
     </ContainerStyled>

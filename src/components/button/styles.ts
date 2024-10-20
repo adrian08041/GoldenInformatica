@@ -12,6 +12,7 @@ export const ButtonStyled = styled.button<{ $color: string }>`
   border: none;
   cursor: pointer;
   
+  
 
 `
 ;

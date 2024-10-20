@@ -10,6 +10,7 @@ export const WrapperContainer = styled.div`
 
 export const NameEmpresa = styled.p`
   width: fit-content;
+  font-size: 27px;
 `;
 
 export const TitleSlogan = styled.h1`
