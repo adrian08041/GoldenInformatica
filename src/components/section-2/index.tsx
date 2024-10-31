@@ -35,8 +35,11 @@ export function Section2() {
             tranquilidade de ter especialistas ao seu lado.
           </DescricaoSlogan>
           <WrapperButton>
-            
-            <Button color="white" texto="Orçamento online!" />
+            <Button
+              color="white"
+              texto="Orçamento online!"
+              link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+            />
           </WrapperButton>
         </WrapperContainer>
 

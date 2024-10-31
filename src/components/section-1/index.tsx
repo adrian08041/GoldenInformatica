@@ -19,17 +19,17 @@ export function Section1() {
           <Slogan />
           <CardContainer>
             <Card
-              Icon={<MdHeadsetMic />}
+              Icon={<MdHeadsetMic color="#000000" font-size="50px" />}
               Title="Atendimento Rápido"
               SubTitle="Experiência e agilidade para consertar e reparar seu computador ou notebook no menor tempo possível."
             />
             <Card
-              Icon={<MdMobileFriendly />}
+              Icon={<MdMobileFriendly color="#000000" font-size="50px" />}
               Title="Garantia de Qualidade"
               SubTitle="Oferecemos garantia em todos os nossos serviços, assegurando a qualidade e a durabilidade dos reparos."
             />
             <Card
-              Icon={<MdLocalShipping />}
+              Icon={<MdLocalShipping color="#000000" font-size="50px" />}
               Title="Conveniência"
               SubTitle="Para sua conveniência, buscamos e entregamos seus equipamento o seu endereço, sem custo adicional."
             />

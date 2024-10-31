@@ -23,8 +23,8 @@ export function Section3() {
         </Title>
         <ContainerCard>
           <Card
-            Icon={<MdHandyman />}
-            Title="Conserto e Reparo a PCs e notebooks"
+            Icon={<MdHandyman color="#000000" font-size="50px" />}
+            Title="Conserto e Reparo a Computadores"
             SubTitle="Nosso time especializado oferece conserto
           e reparo para todos os tipos de problemas,
           desde falhas no hardware até questões de
@@ -33,8 +33,8 @@ export function Section3() {
           solução para o seu equipamento."
           />
           <Card
-            Icon={<MdBackup />}
-            Title="Formatação com backup"
+            Icon={<MdBackup color="#000000" font-size="50px" />}
+            Title="Formatação com Backup"
             SubTitle="Realizamos a formatação completa do seu 
           computador, incluindo backup dos seus 
           arquivos importantes. Escolha entre
@@ -42,7 +42,7 @@ export function Section3() {
           deixe o trabalho pesado conosco."
           />
           <Card
-            Icon={<GrVmMaintenance />}
+            Icon={<GrVmMaintenance color="#000000" font-size="50px" />}
             Title="Manuntenção Preventiva"
             SubTitle="Nossa manntenção preventiva inclui limpeza
           interna, verificação de hardware e ajustes
@@ -50,31 +50,31 @@ export function Section3() {
           prolongar a vida útil do seu dispositivo."
           />
           <Card
-            Icon={<IoGameController />}
+            Icon={<IoGameController color="#000000" font-size="50px" />}
             Title="Montagem de PC Gamer"
-            SubTitle="Oferecemos  montagem  personalizada  de PCs Gamer, adaptados ás suas 
-Necessidades e preferências. Se você  busca 
-potência  e eficiência  para  jogos,  temos a solução  ideal  para você."
+            SubTitle="Oferecemos montagem personalizada de PCs Gamer, adaptados ás suas 
+Necessidades e preferências. Se você busca 
+potência e eficiência para jogos, temos a solução ideal para você."
           />
           <Card
-            Icon={<GiLaptop />}
-            Title="Restauração de Carcaça  de Notebook "
+            Icon={<GiLaptop color="#000000" font-size="50px" />}
+            Title="Restauração de Carcaça de Notebook "
             SubTitle="Realizamos a Restauração  da carcaça do
 seu notebook, melhorando a aspecto visual
 e a  durabilidade do seu equipamento, como
     se estivesse  novo  novamente."
           />
           <Card
-            Icon={<MdKeyboard />}
-            Title="Venda e instalação  de Teclado e SSD"
-            SubTitle="vendemos e instalamos  Teclados  e SSDs
-  para melhorar  a performance  e a
-experiência  de uso do seu  computador.
+            Icon={<MdKeyboard color="#000000" font-size="50px" />}
+            Title="Venda e instalação de Teclado e SSD"
+            SubTitle="vendemos e instalamos Teclados e SSDs
+  para melhorar a performance e a
+experiência de uso do seu computador.
 Troque componentes antigos e sinta a
-      diferença  no desempenho.."
+      diferença no desempenho.."
           />
           <Card
-            Icon={<BsMotherboard />}
+            Icon={<BsMotherboard color="#000000" font-size="50px" />}
             Title="Reparo de Placa Mãe"
             SubTitle="Especialista em diagnósticos e reparo de
            placas-mãe, asseguramos que seu desktop
@@ -82,9 +82,8 @@ Troque componentes antigos e sinta a
            nossa intervenção"
           />
           <Card
-            Icon={<PiDesktopTowerBold />}
-            Title="Venda de Desktops e Notebooks
-          Novos e Seminovos"
+            Icon={<PiDesktopTowerBold color="#000000" font-size="50px" />}
+            Title="Venda de Computadores"
             SubTitle="Oferecemos uma variedade de desktops e
           notebooks novos e seminovos, com
           qualidade garantida e preços competitivos.
@@ -92,7 +91,7 @@ Troque componentes antigos e sinta a
           pessoal ou profissional"
           />
           <Card
-            Icon={<RiRemoteControlFill />}
+            Icon={<RiRemoteControlFill color="#000000" font-size="50px" />}
             Title="Suporte Remoto"
             SubTitle="Oferecemos suporte remoto para resolver
           problemas de software e configuração

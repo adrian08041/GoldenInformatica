@@ -4,7 +4,9 @@ import styled from "styled-components";
 
 
 export const WrapperContainer = styled.div`
-
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   width: 50vw;
 `;
 
@@ -48,4 +50,5 @@ export const WrapperSection2 = styled.div`
 `;
 export const WrapperButton = styled.div`
   width: fit-content;
+  margin-top: 20px;
 `;

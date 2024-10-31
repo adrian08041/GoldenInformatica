@@ -24,8 +24,16 @@ export function Section4() {
         </SubTitle4>
         <Agende>Agende sua consulta gratuita agora mesmo!</Agende>
         <WrapperButton>
-          <Button color="white" texto="(34) 98430-4587" />
-          <Button color="white" texto="(34) 98430-4587" />
+          <Button
+            color="white"
+            texto="(34) 98430-4587"
+            link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+          />
+          <Button
+            color="white"
+            texto="(34) 98430-4587"
+            link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+          />
         </WrapperButton>
       </ContainerStyled>
     </ContainerImagem2>

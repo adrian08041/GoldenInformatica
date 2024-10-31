@@ -22,11 +22,11 @@ export function Section5() {
       <ContainerFaq>
         <Titulo5>Perguntas Frequentes (FAQ) </Titulo5>
         <WrapperAccordion>
-          <ContainerList2>
+          <ContainerList>
             <Accordion />
             <Accordion />
             <Accordion />
-          </ContainerList2>
+          </ContainerList>
           <ContainerList>
             <Accordion />
             <Accordion />

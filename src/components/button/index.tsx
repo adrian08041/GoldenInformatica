@@ -3,8 +3,9 @@ import { ButtonStyled } from "./styles";
 type ButtonProps = {
   texto: string;
   color: string;
+  link: string;
 };
 
-export function Button({ texto, color }: ButtonProps) {
-  return <ButtonStyled $color={color}>{texto}</ButtonStyled>;
+export function Button({ texto, color, link }: ButtonProps) {
+  return <ButtonStyled $color={color} href={link} target="_blank" >{texto} </ButtonStyled>;
 }

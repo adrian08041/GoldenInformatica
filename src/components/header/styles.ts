@@ -1,3 +1,4 @@
+import { Link } from "react-scroll";
 import styled from "styled-components";
 
 export const Container = styled.div`
@@ -23,5 +24,21 @@ export const Menu = styled.ul`
 `;
 export const Logo = styled.img`
   width: 100;
-  height: 220px;
+  height: 300px;
+`;
+
+export const LinkStyle = styled(Link)`
+  cursor: pointer;
+  margin: 20px 0 10px;
+  padding: 15px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  &:hover,
+  &:focus {
+    color: #daa520;
+  }
+  &:active {
+    color: #daa520;
+  }
 `;

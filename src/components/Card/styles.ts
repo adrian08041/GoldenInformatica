@@ -6,8 +6,11 @@ export const Container = styled.div`
   background-color: white;
   border-radius: 10px;
   align-items: center;
-  text-align: center;
-  padding: 20px;
+ 
+  
+  padding: 15px;
+  gap: 5px;
+  min-height: 266px;
 `;
 
 export const TitleCard = styled.h1`
@@ -20,6 +23,17 @@ export const SubTitleCard = styled.p`
 `;
 
 export const IconCard = styled.div`
-  color: #000000;
-  font-size: 50px;
+  
+`;
+
+export const WrapperFooterCard = styled.div`
+  display: flex;
+  flex-direction: column;
+
+  height: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+
+  gap: 10px;
 `;

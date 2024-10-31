@@ -1,15 +1,12 @@
 import { IconWpp, WrapperWpp } from "./styles";
-import "./style.css"
+
+import { MdWhatsapp } from "react-icons/md";
 export function Whatsapp() {
   return (
     <WrapperWpp>
-      <IconWpp> </IconWpp>
-
-      <div className="ButtonWpp">
-        <a href="https://wa.me//5592995175830" target="_blank">
-          <img src="/public/assets/whatsapp.png" alt="Fale conosco pelo Whatsapp"></img>
-        </a>
-      </div>
+      <a href="https://wa.me//5592995175830" target="_blank">
+        <MdWhatsapp size={44} color="white" />
+      </a>
     </WrapperWpp>
   );
 }

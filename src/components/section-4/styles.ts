@@ -37,4 +37,5 @@ export const WrapperButton = styled.div`
   justify-content: center;
 
   gap: 30px;
+  margin-top:20px;
 `;

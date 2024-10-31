@@ -17,19 +17,21 @@ export const Titulo5 = styled.h1`
 `
 
 export const WrapperAccordion = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  align-items:center;
   gap: 15px;
   justify-items: center;
+  width: 100%;
+  margin-top: 20px;
 `;
 
 
 export const ContainerList = styled.div`
-
-
-`
-export const ContainerList2 = styled.div`
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
 `;
 
 

@@ -20,4 +20,5 @@ export const ContainerCard = styled.div`
   grid-template-columns: 1fr 1fr 1fr;
   gap: 30px;
   margin-top: 100px;
+  grid-template-rows: 1fr;
 `;
