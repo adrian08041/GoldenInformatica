@@ -30,15 +30,30 @@ export const Logo = styled.img`
 export const LinkStyle = styled(Link)`
   cursor: pointer;
   margin: 20px 0 10px;
-  padding: 15px;
+  
   font-weight: bold;
   color: white;
   text-decoration: none;
+  position: relative;
   &:hover,
   &:focus {
     color: #daa520;
   }
   &:active {
     color: #daa520;
+  }
+  &::after {
+    content: "";
+    position: absolute;
+    background-color: #daa520;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+  }
+
+  &:hover::after{
+    width: 100%;
   }
 `;

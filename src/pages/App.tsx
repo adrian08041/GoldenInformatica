@@ -7,7 +7,8 @@ import { Section4 } from "../components/section-4";
 import { Section5 } from "../components/section-5";
 import { Section6 } from "../components/section-6";
 import { Whatsapp } from "../components/whatsapp";
-import { ReturnToTop } from "../components/return-to-top";
+
+import ScrollButton from "../components/top";
 
 export function App() {
   return (
@@ -30,15 +31,8 @@ export function App() {
       </Element>
       <Maps />
       <Whatsapp />
-      <ReturnToTop />
+      <ScrollButton />
     </div>
   );
 }
-
-
-
-
-
-
-
 

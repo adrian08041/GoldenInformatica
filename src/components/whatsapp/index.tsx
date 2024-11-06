@@ -1,4 +1,4 @@
-import { IconWpp, WrapperWpp } from "./styles";
+import { WrapperWpp } from "./styles";
 
 import { MdWhatsapp } from "react-icons/md";
 export function Whatsapp() {

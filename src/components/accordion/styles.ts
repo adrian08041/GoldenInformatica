@@ -2,15 +2,20 @@ import { MdKeyboardArrowDown } from "react-icons/md";
 import styled, { css } from "styled-components";
 
 export const ContainerAccordion = styled.div<{ $open: boolean }>`
-  ${({ $open }) => css`
   max-width: 70%;
-  
-  `}
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 10px;
 `;
 
 export const ButtonAccordion = styled.button`
   all: unset;
   cursor: pointer;
+  font-size: 18px;
 `;
 
 export const SpanButton = styled.span<{ $open: boolean }>`
