@@ -89,7 +89,7 @@ PERFORMANCE OF THIS SOFTWARE.
     max-width: 1320px;
   }
 `;V.div`
-  background-image: url("/public/assets/imagem1.jpg");
+  background-image: url("./public/assets/imagem1.jpg");
   background-size: cover;
 `;function Pk(){const{isLoaded:t}=nC({id:"google-map-script",googleMapsApiKey:"AIzaSyCvfSA-0RAz6Fl1X-UJ1s0B_UQaD834Q4Y"}),e={lat:-18.571897,lng:-46.523925};return M.jsx(Br,{children:M.jsx("div",{className:"map",children:t?M.jsxs(Vx,{mapContainerStyle:{width:"100%",height:"100%"},center:e,zoom:16,children:[M.jsx(wy,{position:e,options:{label:{text:"Gold Informática",className:"TittleMaker"}}}),M.jsx(M.Fragment,{})]}):M.jsx(M.Fragment,{})})})}function e1({children:t}){return M.jsx(Br,{children:t})}const Ok=V.a`
   background-color: #009700;
