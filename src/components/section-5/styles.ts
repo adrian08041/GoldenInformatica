@@ -23,7 +23,7 @@ export const WrapperAccordion = styled.div`
   justify-content: center;
   width: 100%;
   margin-top: 20px;
-  margin-left: 175px;
+  margin-left: 70px;
 `;
 
 export const ContainerList = styled.div`

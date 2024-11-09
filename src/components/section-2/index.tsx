@@ -14,7 +14,7 @@ export function Section2() {
   return (
     <ContainerStyled>
       <WrapperSection2>
-        <WrapperContainer>
+        <WrapperContainer >
           <NameEmpresa>Gold Informática</NameEmpresa>
           <TitleSlogan>
             Nos dedicamos a oferecer serviços de conserto e reparo de

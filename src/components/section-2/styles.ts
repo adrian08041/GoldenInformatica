@@ -1,13 +1,11 @@
 import styled from "styled-components";
 
-
-
-
 export const WrapperContainer = styled.div`
   display: flex;
   flex-direction: column;
   gap: 10px;
   width: 50vw;
+  
 `;
 
 export const NameEmpresa = styled.p`
@@ -22,11 +20,7 @@ export const DescricaoSlogan = styled.p`
   //width: 50%;
 `;
 
-
-export const ContainerImage = styled.div`
-
-`;
-
+export const ContainerImage = styled.div``;
 
 export const Photo = styled.div`
   background-image: url("/assets/imagem1.jpg");
@@ -36,10 +30,6 @@ export const Photo = styled.div`
   height: 50vh;
   background-repeat: no-repeat;
   border-radius: 20px;
-  
-
- 
-  
 `;
 
 export const WrapperSection2 = styled.div`

@@ -10,14 +10,23 @@ import { Whatsapp } from "../components/whatsapp";
 
 import ScrollButton from "../components/top";
 
+import { gsap } from "gsap";
+import { useGSAP } from "@gsap/react";
+
+
+
 export function App() {
+  useGSAP(() => {
+    gsap.to(".header", {x:0})
+  }, []);
+
   return (
-    <div>
+    <>
       <Element name="header">
         <Section1 />
       </Element>
       <Element name="sobre-nos">
-        <Section2 />
+        <Section2/>
       </Element>
       <Element name="nossos-servicos">
         <Section3 />
@@ -32,7 +41,10 @@ export function App() {
       <Maps />
       <Whatsapp />
       <ScrollButton />
-    </div>
+    </>
   );
 }
+
+
+
 
