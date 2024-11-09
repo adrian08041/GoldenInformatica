@@ -9,7 +9,7 @@ export const CardContainer = styled.div`
 `;
 
 export const ContainerImage = styled.div`
-  background-image: url("/assets/Background.png");
+  background-image: url("./assets/Background.png");
   background-repeat: no-repeat;
   background-size: 100% 90%;
 `;

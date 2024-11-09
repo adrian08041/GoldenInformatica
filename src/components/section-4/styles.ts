@@ -4,7 +4,7 @@ import styled from "styled-components";
 export const ContainerImagem2 = styled.div`
   width: 100%;
   height: 800px;
-  background-image: url("/assets/imagem3.png");
+  background-image: url("./assets/imagem3.png");
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: center;

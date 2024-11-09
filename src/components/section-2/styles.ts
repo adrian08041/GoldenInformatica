@@ -22,7 +22,7 @@ export const DescricaoSlogan = styled.p`
 export const ContainerImage = styled.div``;
 
 export const Photo = styled.div`
-  background-image: url("assets/imagem1.jpg");
+  background-image: url("./assets/imagem1.jpg");
   background-size: cover;
 
   width: 50vw;
