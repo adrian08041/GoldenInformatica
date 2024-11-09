@@ -216,7 +216,6 @@ margin-top: 20px;
   flex-direction: column;
   gap: 10px;
   width: 50vw;
-  
 `,d2=V.p`
   width: fit-content;
   font-size: 27px;
@@ -225,7 +224,7 @@ margin-top: 20px;
 `,hm=V.p`
   //width: 50%;
 `;V.div``;const h2=V.div`
-  background-image: url("/assets/imagem1.jpg");
+  background-image: url("assets/imagem1.jpg");
   background-size: cover;
 
   width: 50vw;
