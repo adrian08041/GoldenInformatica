@@ -27,6 +27,6 @@ export const ContainerStyled = styled.div`
 `;
 
 export const Photo = styled.div`
-  background-image: url("/public/assets/imagem1.jpg");
+  background-image: url("./public/assets/imagem1.jpg");
   background-size: cover;
 `;
