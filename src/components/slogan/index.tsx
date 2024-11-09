@@ -20,7 +20,7 @@ export function Slogan() {
         <Button
           color="white"
           texto="Orçamento online!"
-          link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+          link="https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"
         />
       </WrapperButton>
     </Container>

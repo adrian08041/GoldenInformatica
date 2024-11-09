@@ -27,12 +27,12 @@ export function Section4() {
           <Button
             color="white"
             texto="(34) 98430-4587"
-            link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+            link="https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"
           />
           <Button
             color="white"
             texto="(34) 98430-4587"
-            link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+            link="https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"
           />
         </WrapperButton>
       </ContainerStyled>

@@ -5,7 +5,7 @@ import { Container, LinkStyle, Logo, Menu, WrapperMenu } from "./styles";
 export function Header() {
   return (
     <Container>
-      <Logo src="/assets/logo.png" alt="Logo da empresa" />
+      <Logo src="./assets/logo.png" alt="Logo da empresa" />
       <WrapperMenu>
         <Menu>
           <LinkStyle
@@ -41,14 +41,12 @@ export function Header() {
             Contato
           </LinkStyle>
         </Menu>
-
-       
       </WrapperMenu>
 
       <Button
         color="white"
         texto="Orçamento online!"
-        link="https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"
+        link="https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"
       />
     </Container>
   );
