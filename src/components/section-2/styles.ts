@@ -5,7 +5,6 @@ export const WrapperContainer = styled.div`
   flex-direction: column;
   gap: 10px;
   width: 50vw;
-  
 `;
 
 export const NameEmpresa = styled.p`
@@ -23,7 +22,7 @@ export const DescricaoSlogan = styled.p`
 export const ContainerImage = styled.div``;
 
 export const Photo = styled.div`
-  background-image: url("/assets/imagem1.jpg");
+  background-image: url("assets/imagem1.jpg");
   background-size: cover;
 
   width: 50vw;

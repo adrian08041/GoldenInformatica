@@ -1,5 +1,5 @@
-import { IconBaseProps } from "react-icons";
-import { Container, IconCard, SubTitleCard, TitleCard, WrapperFooterCard } from "./styles";
+
+import { Container,SubTitleCard, TitleCard, WrapperFooterCard } from "./styles";
 
 type CardProps = {
   Title: string;

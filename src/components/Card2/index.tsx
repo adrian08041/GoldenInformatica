@@ -1,5 +1,5 @@
 import { IconBaseProps } from "react-icons";
-import { Container } from "../container";
+
 import { ContainerCard2, IconCard, SubTitleCard, TitleCard } from "./styles";
 
 type Card2Props = {

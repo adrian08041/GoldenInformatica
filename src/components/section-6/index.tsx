@@ -1,5 +1,5 @@
 import { MdLocationOn, MdOutlineAlternateEmail } from "react-icons/md";
-import { Card } from "../card";
+
 import { Card2 } from "../card2";
 import { ContainerStyled } from "../container/styles";
 import {

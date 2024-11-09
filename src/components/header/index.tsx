@@ -1,14 +1,6 @@
 import { Button } from "../button";
 import { Container, LinkStyle, Logo, Menu, WrapperMenu } from "./styles";
-import {
-  Link,
-  DirectLink,
-  Element,
-  Events,
-  animateScroll as scroll,
-  scrollSpy,
-  scroller,
-} from "react-scroll";
+
 
 export function Header() {
   return (
