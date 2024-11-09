@@ -155,7 +155,7 @@ PERFORMANCE OF THIS SOFTWARE.
   &:hover::after{
     width: 100%;
   }
-`;function Ik(){return M.jsxs(bk,{children:[M.jsx(jk,{src:"/assets/logo.png",alt:"Logo da empresa"}),M.jsx(Tk,{children:M.jsxs(Dk,{children:[M.jsx(Js,{to:"sobre-nos",smooth:!0,duration:800,className:"nav-item",children:"Sobre nós"}),M.jsx(Js,{to:"nossos-servicos",smooth:!0,duration:850,className:"nav-item",children:"Nossos Serviços"}),M.jsx(Js,{to:"duvidas",smooth:!0,duration:900,className:"nav-item",children:"Duvidas"}),M.jsx(Js,{to:"contato",smooth:!0,duration:1e3,className:"nav-item",children:"Contato"})]})}),M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"})]})}const zk=V.div`
+`;function Ik(){return M.jsxs(bk,{children:[M.jsx(jk,{src:"./assets/logo.png",alt:"Logo da empresa"}),M.jsx(Tk,{children:M.jsxs(Dk,{children:[M.jsx(Js,{to:"sobre-nos",smooth:!0,duration:800,className:"nav-item",children:"Sobre nós"}),M.jsx(Js,{to:"nossos-servicos",smooth:!0,duration:850,className:"nav-item",children:"Nossos Serviços"}),M.jsx(Js,{to:"duvidas",smooth:!0,duration:900,className:"nav-item",children:"Duvidas"}),M.jsx(Js,{to:"contato",smooth:!0,duration:1e3,className:"nav-item",children:"Contato"})]})}),M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"})]})}const zk=V.div`
   width: 50%;
   margin-top: 100px;
   color: white;
