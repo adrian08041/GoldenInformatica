@@ -155,7 +155,7 @@ PERFORMANCE OF THIS SOFTWARE.
   &:hover::after{
     width: 100%;
   }
-`;function Ik(){return M.jsxs(bk,{children:[M.jsx(jk,{src:"./assets/logo.png",alt:"Logo da empresa"}),M.jsx(Tk,{children:M.jsxs(Dk,{children:[M.jsx(Js,{to:"sobre-nos",smooth:!0,duration:800,className:"nav-item",children:"Sobre nós"}),M.jsx(Js,{to:"nossos-servicos",smooth:!0,duration:850,className:"nav-item",children:"Nossos Serviços"}),M.jsx(Js,{to:"duvidas",smooth:!0,duration:900,className:"nav-item",children:"Duvidas"}),M.jsx(Js,{to:"contato",smooth:!0,duration:1e3,className:"nav-item",children:"Contato"})]})}),M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"})]})}const zk=V.div`
+`;function Ik(){return M.jsxs(bk,{children:[M.jsx(jk,{src:"./assets/logo.png",alt:"Logo da empresa"}),M.jsx(Tk,{children:M.jsxs(Dk,{children:[M.jsx(Js,{to:"sobre-nos",smooth:!0,duration:800,className:"nav-item",children:"Sobre nós"}),M.jsx(Js,{to:"nossos-servicos",smooth:!0,duration:850,className:"nav-item",children:"Nossos Serviços"}),M.jsx(Js,{to:"duvidas",smooth:!0,duration:900,className:"nav-item",children:"Duvidas"}),M.jsx(Js,{to:"contato",smooth:!0,duration:1e3,className:"nav-item",children:"Contato"})]})}),M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"})]})}const zk=V.div`
   width: 50%;
   margin-top: 100px;
   color: white;
@@ -172,7 +172,7 @@ gap:10px;
 
 `,Nk=V.div`
 margin-top: 20px;
-`;function $k(){return M.jsxs(zk,{children:[M.jsxs(Rk,{children:[M.jsx(fm,{children:"Conserto e reparo de computadores e notebooks"}),M.jsx(Ak,{children:"Desempenho superior e confiabilidade garantida para seus dispositivos"}),M.jsx(fm,{children:"Devolva a vida ao seu computador ou notebook com nossos serviços de conserto e reparo de alta qualidade"})]}),M.jsx(Nk,{children:M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"})})]})}const Bk=V.div`
+`;function $k(){return M.jsxs(zk,{children:[M.jsxs(Rk,{children:[M.jsx(fm,{children:"Conserto e reparo de computadores e notebooks"}),M.jsx(Ak,{children:"Desempenho superior e confiabilidade garantida para seus dispositivos"}),M.jsx(fm,{children:"Devolva a vida ao seu computador ou notebook com nossos serviços de conserto e reparo de alta qualidade"})]}),M.jsx(Nk,{children:M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"})})]})}const Bk=V.div`
   display: flex;
   flex-direction: column;
   background-color: white;
@@ -239,7 +239,7 @@ margin-top: 20px;
 `,m2=V.div`
   width: fit-content;
   margin-top: 20px;
-`;function v2(){return M.jsx(Br,{children:M.jsxs(g2,{children:[M.jsxs(f2,{children:[M.jsx(d2,{children:"Gold Informática"}),M.jsx(p2,{children:"Nos dedicamos a oferecer serviços de conserto e reparo de computadores e notebooks com a mais alta qualidade."}),M.jsxs(hm,{children:["Na ",M.jsx("strong",{children:" Gold Informática"}),", nos dedicamos a oferecer serviços de conserto e reparo de computadores e notebooks com a mais alta qualidade. Nossa equipe de profissionais qualificados está preparada para lidar com qualquer problema, garantindo que seu dispositivo volte novo."]}),M.jsx(hm,{children:"Com atendimento rápido e eficiente, coleta e entrega no seu endereço, e garantia em todos os os nossos serviços, proporcionamos uma experiência de conviniência e confiabilidade. Confie na Golden Informática para cuidar do seu equipaento e aproveite a tranquilidade de ter especialistas ao seu lado."}),M.jsx(m2,{children:M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"})})]}),M.jsx(h2,{})]})})}const y2=V.div`
+`;function v2(){return M.jsx(Br,{children:M.jsxs(g2,{children:[M.jsxs(f2,{children:[M.jsx(d2,{children:"Gold Informática"}),M.jsx(p2,{children:"Nos dedicamos a oferecer serviços de conserto e reparo de computadores e notebooks com a mais alta qualidade."}),M.jsxs(hm,{children:["Na ",M.jsx("strong",{children:" Gold Informática"}),", nos dedicamos a oferecer serviços de conserto e reparo de computadores e notebooks com a mais alta qualidade. Nossa equipe de profissionais qualificados está preparada para lidar com qualquer problema, garantindo que seu dispositivo volte novo."]}),M.jsx(hm,{children:"Com atendimento rápido e eficiente, coleta e entrega no seu endereço, e garantia em todos os os nossos serviços, proporcionamos uma experiência de conviniência e confiabilidade. Confie na Golden Informática para cuidar do seu equipaento e aproveite a tranquilidade de ter especialistas ao seu lado."}),M.jsx(m2,{children:M.jsx(Vo,{color:"white",texto:"Orçamento online!",link:"https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"})})]}),M.jsx(h2,{})]})})}const y2=V.div`
   margin-top: 150px;
 `,_2=V.h1`
 font-size: 55px;
@@ -316,7 +316,7 @@ Troque componentes antigos e sinta a\r
 
   gap: 30px;
   margin-top:20px;
-`;function I2(){return M.jsx(O2,{children:M.jsxs(Br,{children:[M.jsx(b2,{children:"Uma gama completa de serviços para garantir que seu equipamento funcione com a máxima eficiência."}),M.jsx(T2,{children:"Conheça nossos serviços e descubra como podemos ajudar você a obter o melhor desempenho do seu equipamento."}),M.jsx(D2,{children:"Agende sua consulta gratuita agora mesmo!"}),M.jsxs(j2,{children:[M.jsx(Vo,{color:"white",texto:"(34) 98430-4587",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"}),M.jsx(Vo,{color:"white",texto:"(34) 98430-4587",link:"https://api.whatsapp.com/send/?phone=5592995175830&text&type=phone_number&app_absent=0"})]})]})})}const z2=V.div`
+`;function I2(){return M.jsx(O2,{children:M.jsxs(Br,{children:[M.jsx(b2,{children:"Uma gama completa de serviços para garantir que seu equipamento funcione com a máxima eficiência."}),M.jsx(T2,{children:"Conheça nossos serviços e descubra como podemos ajudar você a obter o melhor desempenho do seu equipamento."}),M.jsx(D2,{children:"Agende sua consulta gratuita agora mesmo!"}),M.jsxs(j2,{children:[M.jsx(Vo,{color:"white",texto:"(34) 98430-4587",link:"https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"}),M.jsx(Vo,{color:"white",texto:"(34) 98430-4587",link:"https://api.whatsapp.com/send/?phone=5534984304587&text&type=phone_number&app_absent=0"})]})]})})}const z2=V.div`
   max-width: 70%;
   display: flex;
   flex-direction: column;
@@ -416,7 +416,7 @@ font-size: 20px;
   justify-content: center;
   align-items: center;
   border-radius: 32px;
-`;function iM(){return M.jsx(rM,{children:M.jsx("a",{href:"https://wa.me//5592995175830",target:"_blank",children:M.jsx(a2,{size:44,color:"white"})})})}const oM=V.button``,sM=()=>{const[t,e]=p.useState(!1),n=()=>{window.scrollY>200?e(!0):e(!1)};p.useEffect(()=>(window.addEventListener("scroll",n),()=>{window.removeEventListener("scroll",n)}),[]);const r=()=>{window.scrollTo({top:0,behavior:"smooth"})};return M.jsx(M.Fragment,{children:t&&M.jsx(oM,{onClick:r,style:{position:"fixed",bottom:"20px",right:"100px",fontSize:"16px",backgroundColor:"#daa520",color:"white",border:"none",borderRadius:"32px",cursor:"pointer",width:"60px",height:"60px"},children:M.jsx(u2,{size:44,color:"white"})})})};function mn(t){if(t===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}function r1(t,e){t.prototype=Object.create(e.prototype),t.prototype.constructor=t,t.__proto__=e}/*!
+`;function iM(){return M.jsx(rM,{children:M.jsx("a",{href:"https://wa.me//5534984304587",target:"_blank",children:M.jsx(a2,{size:44,color:"white"})})})}const oM=V.button``,sM=()=>{const[t,e]=p.useState(!1),n=()=>{window.scrollY>200?e(!0):e(!1)};p.useEffect(()=>(window.addEventListener("scroll",n),()=>{window.removeEventListener("scroll",n)}),[]);const r=()=>{window.scrollTo({top:0,behavior:"smooth"})};return M.jsx(M.Fragment,{children:t&&M.jsx(oM,{onClick:r,style:{position:"fixed",bottom:"20px",right:"100px",fontSize:"16px",backgroundColor:"#daa520",color:"white",border:"none",borderRadius:"32px",cursor:"pointer",width:"60px",height:"60px"},children:M.jsx(u2,{size:44,color:"white"})})})};function mn(t){if(t===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}function r1(t,e){t.prototype=Object.create(e.prototype),t.prototype.constructor=t,t.__proto__=e}/*!
  * GSAP 3.12.5
  * https://gsap.com
  *
